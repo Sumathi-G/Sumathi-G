@@ -1,16 +1,46 @@
-## Hi there 👋
+## 👋 Hello, I’m **Sumathi G**
 
-<!--
-**Sumathi-G/Sumathi-G** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student | 💻 Aspiring Developer   
 
-Here are some ideas to get you started:
+I’m passionate about building, learning, and growing in the world of technology.  
+Currently exploring new tools, sharpening my skills, and working on exciting projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌱 Currently
+- 🔭 Working on improving my **coding & problem-solving skills**
+- 📚 Learning **programming, Machine learning & core Data Science concepts**
+- 🤝 Open to **collaborations** and **learning opportunities**
+
+---
+
+### 💡 Interests
+- 💻 Complete Projects and Deployment
+- 🌐 Artificial Intelligence  
+- 📊 Machine learning   
+- 🧠 Continuous Learning  
+
+---
+
+### 🛠️ Tech Stack
+- **Languages:** C++, Python, Java (learning)
+- **Tools:** Git, GitHub, VS Code , Jupiter notebook
+- **Libraries:** NumPy, Pandas, Matplotlib, Seaborn (learning)  
+- **Concepts:** Data Cleaning, EDA, Basic ML Models 
+
+---
+
+### 🚀 Goals
+- Build real-world **data science projects**
+- Improve **problem-solving & analytical thinking**
+- Gain hands-on experience with **datasets & models**
+
+---
+
+### 📫 Connect with Me
+- linkedln -
+- ✉️ Feel free to reach out for collaboration or discussions!
+
+---
+
+✨ *“Learning never exhausts the mind.”* ✨
