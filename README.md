@@ -38,7 +38,7 @@ Currently exploring new tools, sharpening my skills, and working on exciting pro
 ---
 
 ### 📫 Connect with Me
-- linkedln -
+- linkedln - https://www.linkedin.com/in/sumathi-ganesan-7a8362338
 - ✉️ Feel free to reach out for collaboration or discussions!
 
 ---
