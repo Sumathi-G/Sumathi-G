@@ -1,6 +1,6 @@
 ## 👋 Hello, I’m **Sumathi G**
 
-🎓 Student | 💻 Aspiring Developer   
+🎓 Student | 💻 Aspiring AI & Data Science   
 
 I am passionate about building, learning, and growing in the world of technology.  
 Currently exploring new tools, sharpening my skills, and working on exciting projects.
