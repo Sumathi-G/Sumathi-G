@@ -2,7 +2,7 @@
 
 🎓 Student | 💻 Aspiring Developer   
 
-I’m passionate about building, learning, and growing in the world of technology.  
+I am passionate about building, learning, and growing in the world of technology.  
 Currently exploring new tools, sharpening my skills, and working on exciting projects.
 
 ---
@@ -17,7 +17,8 @@ Currently exploring new tools, sharpening my skills, and working on exciting pro
 ### 💡 Interests
 - 💻 Complete Projects and Deployment
 - 🌐 Artificial Intelligence  
-- 📊 Machine learning   
+- 📊 Machine learning
+- 🛠️ Deep learning
 - 🧠 Continuous Learning  
 
 ---
